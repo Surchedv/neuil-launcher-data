@@ -33,5 +33,10 @@
     "nom": "simpleshops-1.2.2.jar",
     "url": "https://cdn.modrinth.com/data/71BlRhHp/versions/B6FEs7dP/simpleshops-1.2.2.jar",
     "md5": ""
+  },
+  {
+    "nom": "[1.20.1] SecurityCraft v1.10.1.jar",
+    "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/UDbRAGQU/%5B1.20.1%5D%20SecurityCraft%20v1.10.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+    "md5": ""
   }
 ]
