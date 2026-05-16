@@ -38,5 +38,10 @@
     "nom": "[1.20.1] SecurityCraft v1.10.1.jar",
     "url": "https://cdn.modrinth.com/data/v8jzRtAt/versions/UDbRAGQU/%5B1.20.1%5D%20SecurityCraft%20v1.10.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
     "md5": ""
+  },
+  {
+    "nom": "exposure-1.20.1-1.7.16-forge.jar",
+    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/Wk43p4gt/exposure-1.20.1-1.7.16-forge.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge",
+    "md5": ""
   }
 ]
